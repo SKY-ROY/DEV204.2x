@@ -1,0 +1,6 @@
+C:\Users\msi1\Desktop\C# Tutorials\DEV204.2x\Mod1_SelfAssessmentLab\Mod1_SelfAssessmentLab\bin\Debug\Mod1_SelfAssessmentLab.exe.config
+C:\Users\msi1\Desktop\C# Tutorials\DEV204.2x\Mod1_SelfAssessmentLab\Mod1_SelfAssessmentLab\bin\Debug\Mod1_SelfAssessmentLab.exe
+C:\Users\msi1\Desktop\C# Tutorials\DEV204.2x\Mod1_SelfAssessmentLab\Mod1_SelfAssessmentLab\bin\Debug\Mod1_SelfAssessmentLab.pdb
+C:\Users\msi1\Desktop\C# Tutorials\DEV204.2x\Mod1_SelfAssessmentLab\Mod1_SelfAssessmentLab\obj\Debug\Mod1_SelfAssessmentLab.csprojAssemblyReference.cache
+C:\Users\msi1\Desktop\C# Tutorials\DEV204.2x\Mod1_SelfAssessmentLab\Mod1_SelfAssessmentLab\obj\Debug\Mod1_SelfAssessmentLab.exe
+C:\Users\msi1\Desktop\C# Tutorials\DEV204.2x\Mod1_SelfAssessmentLab\Mod1_SelfAssessmentLab\obj\Debug\Mod1_SelfAssessmentLab.pdb
